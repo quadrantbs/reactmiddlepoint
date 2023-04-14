@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmiddlepoint/static/css/main.cf1c3e51.css",
+    "main.js": "/reactmiddlepoint/static/js/main.90209f49.js",
+    "static/js/787.1d80688f.chunk.js": "/reactmiddlepoint/static/js/787.1d80688f.chunk.js",
+    "index.html": "/reactmiddlepoint/index.html",
+    "main.cf1c3e51.css.map": "/reactmiddlepoint/static/css/main.cf1c3e51.css.map",
+    "main.90209f49.js.map": "/reactmiddlepoint/static/js/main.90209f49.js.map",
+    "787.1d80688f.chunk.js.map": "/reactmiddlepoint/static/js/787.1d80688f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf1c3e51.css",
+    "static/js/main.90209f49.js"
+  ]
+}
